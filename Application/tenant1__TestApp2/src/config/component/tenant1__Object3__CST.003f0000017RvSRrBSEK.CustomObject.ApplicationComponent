@@ -1,0 +1,19 @@
+{
+	"appId": "000f0000016nodCl7PqC",
+	"appId.__objectType": "Application",
+	"appId.name": "tenant1__TestApp2",
+	"belongTo": null,
+	"category": null,
+	"createdDate": "2023-10-17 08:06:17",
+	"custom": true,
+	"id": "003f0000017RvSRrBSEK",
+	"lastModifiedDate": "2023-10-17 08:06:17",
+	"name": "tenant1__Object3__CST",
+	"parent": "003f000000kxaz1iXBOi",
+	"parent.__objectType": "ApplicationComponent",
+	"parent.name": "",
+	"protectMode": 0,
+	"seqNo": null,
+	"type": "CustomObject",
+	"visibility": 0
+}

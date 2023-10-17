@@ -1,0 +1,24 @@
+{
+	"cust": null,
+	"stad": [
+		{
+			"cond": {
+				"conditions": [
+					{
+						"field": "id",
+						"operator": "in",
+						"value": [
+							"cUyu0000017RvW7PEb6u"
+						]
+					}
+				],
+				"conjunction": "AND"
+			},
+			"exportType": "stad",
+			"id": "004U0000017RvWWZZb7Y",
+			"installStrategy": "fixed",
+			"objectName": "tenant1__Object3__CST",
+			"packageID": "003G0000017PtC6sonB2"
+		}
+	]
+}

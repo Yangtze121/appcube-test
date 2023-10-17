@@ -1,0 +1,27 @@
+{
+	"belongTo": null,
+	"content": {
+		"name": "",
+		"type": "",
+		"view": {
+			"fields": [
+				"name"
+			],
+			"name": "__layout__tenant1__Object3__CST__records"
+		}
+	},
+	"createdDate": "2023-10-17 08:06:17",
+	"custom": true,
+	"description": "Object records layout",
+	"id": "000D0000017RvSQCQf8y",
+	"label": "未命名对象2 Records",
+	"lastModifiedDate": "2023-10-17 08:06:17",
+	"name": "未命名对象2 Records",
+	"objectId": "cust0000017RvSQ3LUyu",
+	"objectId.__objectType": "Object",
+	"objectId.name": "tenant1__Object3__CST",
+	"protectMode": 0,
+	"type": "ObjectRecordsLayout",
+	"type.name": "ObjectRecordsLayout",
+	"visibility": 0
+}
