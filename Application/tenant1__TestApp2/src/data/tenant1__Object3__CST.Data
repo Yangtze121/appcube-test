@@ -2,3 +2,4 @@
 id,name,createdBy,createdDate,lastModifiedBy,lastModifiedDate,systemModifiedDate,deletedDate,isDeleted,owner,isLocked,currencyIsoCode,installedPackage
 string,string,string,date,string,date,date,date,bool,string,bool,string,string
 cUyu0000017RvW7PEb6u,test,10gd0000015yrrauH8NM,2023-10-17 08:07:07,10gd0000015yrrauH8NM,2023-10-17 08:07:09,NULL,NULL,false,10gd0000015yrrauH8NM,false,USD,NULL
+cUyu0000017RvlQtB5mq,test2,10gd0000015yrrauH8NM,2023-10-17 08:10:34,10gd0000015yrrauH8NM,2023-10-17 08:10:34,NULL,NULL,false,10gd0000015yrrauH8NM,false,USD,NULL
