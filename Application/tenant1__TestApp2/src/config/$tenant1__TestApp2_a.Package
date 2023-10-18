@@ -5,7 +5,7 @@
 	"belongTo.name": "tenant1__TestApp2",
 	"company": "",
 	"compilationDate": null,
-	"compilationResult": null,
+	"compilationResult": "recompilation",
 	"config": null,
 	"contact": null,
 	"copyright": "",
@@ -19,7 +19,7 @@
 	"isBaseline": false,
 	"isEncrypted": false,
 	"language": null,
-	"lastModifiedDate": "2023-10-17 08:10:37",
+	"lastModifiedDate": "2023-10-17 11:54:43",
 	"logo": "",
 	"managed": false,
 	"mode": "full",
@@ -29,8 +29,8 @@
 	"protectMode": 0,
 	"rollbackType": false,
 	"service": "",
-	"setting": null,
+	"setting": "{\"navigationStyle\":\"default\",\"macle\":{\"homepage\":null,\"enable\":true},\"welink\":{\"enable\":true},\"shinemo\":{\"enable\":false},\"wexin\":{\"enable\":false},\"enableMiniProgram\":true}",
 	"type": "full",
-	"updateDate": null,
+	"updateDate": "2023-10-17 11:54:43",
 	"visibility": 0
 }
