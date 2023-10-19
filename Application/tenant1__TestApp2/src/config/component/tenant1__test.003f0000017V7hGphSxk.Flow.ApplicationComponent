@@ -1,0 +1,19 @@
+{
+	"appId": "000f0000016nodCl7PqC",
+	"appId.__objectType": "Application",
+	"appId.name": "tenant1__TestApp2",
+	"belongTo": null,
+	"category": null,
+	"createdDate": "2023-10-19 06:20:22",
+	"custom": true,
+	"id": "003f0000017V7hGphSxk",
+	"lastModifiedDate": "2023-10-19 06:20:22",
+	"name": "tenant1__test",
+	"parent": "003f000000kxaz1iXBOi",
+	"parent.__objectType": "ApplicationComponent",
+	"parent.name": "",
+	"protectMode": 0,
+	"seqNo": null,
+	"type": "Flow",
+	"visibility": 0
+}
